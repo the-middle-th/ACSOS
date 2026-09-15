@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /barcode-scanner-thailand
+Allow: /rfid-warehouse-system
+Allow: /warehouse-automation-thailand
+Allow: /retail-pos-barcode-system
+Allow: /contact
+Allow: /blog
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /proposal/
+Disallow: /internal/
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+Disallow: /api/
+
+Sitemap: https://asiancoding.com/sitemap.xml
